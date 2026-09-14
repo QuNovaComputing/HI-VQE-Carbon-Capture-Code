@@ -15,6 +15,3 @@ Documentation and usage examples are available from the IBM Quantum documentatio
 
 The containerized environment provided for peer-review evaluation of the calculations reported in this manuscript will be described in this repository when it becomes available.
 
-## Publication
-
-Information regarding code availability for publication will be provided in accordance with the journal's code-sharing policy.
